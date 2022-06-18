@@ -1,0 +1,15 @@
+# requirements for the project.
+
+#local lib
+-e .
+
+#dependencies
+dvc
+tensorflow
+tqdm
+scipy
+black
+pandas
+pyYAML
+
+
